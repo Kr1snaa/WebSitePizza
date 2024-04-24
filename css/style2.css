@@ -67,12 +67,12 @@
 
 /* Estilos para el encabezado de la sección del mapa */
 .map-container h3 {
-    font-size: 24px; /* Ajusta el tamaño de la fuente */
+    font-size: 30px; /* Ajusta el tamaño de la fuente */
     color: #ffffff; /* Ajusta el color del texto */
     font-family: 'Sacramento',cursive;
     text-align: center; /* Centra el texto */
     margin-top: 20px; /* Margen superior para separar del contenido anterior */
-    margin-bottom: 10px; /* Margen inferior para separar del contenido siguiente */
+    margin-bottom: 20px; /* Margen inferior para separar del contenido siguiente */
     font-weight: bold; /* Aplica negrita para resaltar el texto */
 }
 
