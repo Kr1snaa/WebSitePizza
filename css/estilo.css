@@ -46,9 +46,10 @@ h1,h2,h3,h4,h5{
 }
 .main-header__contactInfo__phone{
     background:#de423a;
-    color: #ffffff; /*cambiar el color del número*/
+    color: #fdc62d; /*cambiar el color del número*/
     padding: 10px;
     margin: 0;
+	font-family: 'Sacramento', cursive; 
 }
 
 .main-header__contactInfo__addres{
@@ -287,7 +288,8 @@ h1,h2,h3,h4,h5{
 		background: none;
 	}
 	.main-header__contactInfo__addres{
-		color: #ffffff;
+		color: #fdc62d;
+		font-family: 'Sacramento', cursive; 
 	}
 	.main_nav{
 		background:rgba(0,0,0,0.85);
