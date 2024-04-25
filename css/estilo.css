@@ -3,9 +3,9 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'Arial', sans-serif; /*Fuente predeterminada para el textos*//*En Arial antes estaba Montserrat*/
-	background-color:rgb(0, 0, 0); /*color detras de los paneles*/
-    margin: 0; /*tamaño del margen*/
+    font-family: 'Arial', sans-serif; /*--Fuente predeterminada para el textos--*//*--En Arial antes estaba Montserrat--*/
+	background-color:rgb(0, 0, 0); /*--Color detras de los paneles--*/
+    margin: 0; /*--Tamaño del margen--*/
 }
 /*----------------Estilos Base------------------*/
 img{
@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5{
 }
 .main-header__contactInfo__phone{
     background:#de423a;
-    color: #fdc62d; /*cambiar el color del número*/
+    color: #fdc62d; /*--Cambia el color del número--*/
     padding: 10px;
     margin: 0;
 	font-family: 'Sacramento', cursive; 
@@ -203,7 +203,7 @@ h1,h2,h3,h4,h5{
 	text-align: center;
 	text-decoration: none;
 	width: 120px;
-	background: #fdc62d; /*contact*/
+	background: #fdc62d; /*--Contact--*/
 	color: #000000;
 	padding:10px;
 	margin: 10px auto;
@@ -222,7 +222,6 @@ h1,h2,h3,h4,h5{
 	color: #ffffff;
 	margin-bottom: 30px;
 	text-align: center;
-	/*font-family: 'Sacramento',cursive;*/
 }
 
 .today-special__img{
@@ -274,7 +273,7 @@ h1,h2,h3,h4,h5{
 
 @media screen and (min-width:480px){
 	.logo{
-		color: #fdc62d; /*cambiar color del logo "ADreamInGrandLine"*/ 
+		color: #fdc62d; /*--Cambiar color del logo "ADreamInGrandLine"--*/ 
 		
 	}
 	.main-header__contactInfo{
@@ -316,7 +315,7 @@ h1,h2,h3,h4,h5{
 		margin: 0;
 	}
 	.today-special .column {
-		border: 5px solid #fdc62d; /*color de los bordes de las iamgenes mas merorables de OP*/
+		border: 5px solid #fdc62d; /*--Color de los bordes de las imagenes más memorables de OP--*/
 		padding: 5px;
 	}
 	.today-special__img{
