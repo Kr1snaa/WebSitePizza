@@ -36,7 +36,7 @@
 
 /*-- Estilos para el botón de envío --*/
 .contact-form button {
-    background-color: #ffffff;
+    background-color: #fdc62d;
     color: rgb(0, 0, 0); /*-- Color de la letra "enviar"--*/
     padding: 10px 20px;
     border: none;
@@ -67,7 +67,7 @@
 
 /*-- Estilos para el encabezado de la sección del mapa --*/
 .map-container h3 {
-    font-size: 30px; /*-- Ajusta el tamaño de la fuente --*/
+    font-size: 40px; /*-- Ajusta el tamaño de la fuente --*/
     color: #ffffff;
     font-family: 'Sacramento',cursive;
     text-align: center;
